@@ -1,2 +1,2 @@
-# resources
-hosts the files used in Steadfast5 repository
+# Resources
+Host the resources used in website and repository.
